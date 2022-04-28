@@ -2,6 +2,8 @@
 
 Chatbot to help you in referral process..
 
+![image](https://user-images.githubusercontent.com/58463372/165736982-f7dc8d65-c9da-4b1e-9887-d706f4217989.png)
+
 𝗪𝗵𝗮𝘁 𝗱𝗼𝗲𝘀 𝗶𝘁 𝗱𝗼?
     -> Many of us want to send a message while asking for a referral. So with this bot, you can make your process simpler. You just need to enter your details and you will get a message which can be copied and sent to the person who is gonna refer you.
 
